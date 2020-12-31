@@ -15,6 +15,9 @@ Just clone this repository
   <img src="https://github.com/gzeinnumer/SimpleFolderMyLibDirectory/blob/master/preview/example2.jpg"/>
 </p>
 
+- Preview
+|<img src="https://github.com/gzeinnumer/SimpleFolderMyLibDirectory/blob/master/preview/example3.jpg"/>|<img src="https://github.com/gzeinnumer/SimpleFolderMyLibDirectory/blob/master/preview/example4.jpg"/>|<img src="https://github.com/gzeinnumer/SimpleFolderMyLibDirectory/blob/master/preview/example5.jpg"/>|<img src="https://github.com/gzeinnumer/SimpleFolderMyLibDirectory/blob/master/preview/example6.jpg"/>|
+|--|--|--|--|
 
 ---
 
