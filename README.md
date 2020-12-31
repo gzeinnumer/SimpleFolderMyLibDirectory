@@ -9,7 +9,7 @@ Just clone this repository
   <img src="https://github.com/gzeinnumer/SimpleFolderMyLibDirectory/blob/master/preview/example1.jpg"/>
 </p>
 
-- Klik to direct to folder
+- Klik to direct to file
 
 <p align="center">
   <img src="https://github.com/gzeinnumer/SimpleFolderMyLibDirectory/blob/master/preview/example2.jpg"/>
