@@ -1,6 +1,8 @@
 # SimpleFolderMyLibDirectory
  from lib https://github.com/gzeinnumer/MyLibDirectory#function-global-directory
-
+#
+just clone this repository
+#
 - Follow todo from 0 to 16
 
 <p align="center">
